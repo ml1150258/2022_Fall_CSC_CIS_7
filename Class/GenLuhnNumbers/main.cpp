@@ -7,7 +7,7 @@
 //System Libraries
 #include <iostream>  //I/O Library
 #include <cstdlib>   //Random Function Library
-#include <ctime>     //Time Library
+#include <ctime>     //Time Library 
 using namespace std;
 
 //Global Constants
