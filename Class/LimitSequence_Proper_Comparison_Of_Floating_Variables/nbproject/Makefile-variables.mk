@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=genluhnnumbers
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/genluhnnumbers
+CND_ARTIFACT_NAME_Debug=limitsequence_proper_comparison_of_floating_variables
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/limitsequence_proper_comparison_of_floating_variables
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=genluhnnumbers.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/genluhnnumbers.tar
+CND_PACKAGE_NAME_Debug=limitsequencepropercomparisonoffloatingvariables.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/limitsequencepropercomparisonoffloatingvariables.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=genluhnnumbers
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/genluhnnumbers
+CND_ARTIFACT_NAME_Release=limitsequence_proper_comparison_of_floating_variables
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/limitsequence_proper_comparison_of_floating_variables
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=genluhnnumbers.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/genluhnnumbers.tar
+CND_PACKAGE_NAME_Release=limitsequencepropercomparisonoffloatingvariables.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/limitsequencepropercomparisonoffloatingvariables.tar
 #
 # include compiler specific variables
 #

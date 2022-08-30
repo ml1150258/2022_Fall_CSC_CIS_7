@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 }
 
 void Luhn(char ccc[],int n){
-    cout<<"Here it is"<<endl;
+    cout<<"You have to make it work"<<endl;
 }
 
 void output(char cc[],int n){
